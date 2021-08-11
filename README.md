@@ -13,7 +13,7 @@ And I particularly love to use technology for this.
 - 💬 Ask me about anything... especially series, dance and sports.
 - 💜 Pronouns: She/Her
 - ⚡ Curious fact: I'm a digital influencer on Instagram hahaha 
-  - <a href="https://www.instagram.com/bruninhaltorres" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/bruninhaltorres" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruninhaltorres">
 </a>
 
@@ -24,4 +24,3 @@ And I particularly love to use technology for this.
 #
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruninhaltorres&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruninhaltorres&layout=compact&theme=radical)
-![Snake animation](https://github.com/bruninhaltorres/bruninhaltorres/blob/output/github-contribution-grid-snake.svg)
