@@ -19,5 +19,6 @@ And I particularly love to use technology for this.
 - Email: blts@ic.ufal.br
 - [Linkedin](https://www.linkedin.com/in/bruna-leal-torres-silva-683a641b8/)
 
+#
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruninhaltorres&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruninhaltorres&layout=compact&theme=radical)
