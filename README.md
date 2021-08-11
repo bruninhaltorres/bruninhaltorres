@@ -1,7 +1,7 @@
 ## Hello, I'm Bruna 👋
 
 ## Hello Word! 🌍
-
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
 - 💻 I have knowledge of web development with Django,
 and I use programming languages like Python, C and Java.
@@ -18,7 +18,6 @@ And I particularly love to use technology for this.
 
 - Email: blts@ic.ufal.br
 - [Linkedin](https://www.linkedin.com/in/bruna-leal-torres-silva-683a641b8/)
-
 #
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruninhaltorres&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruninhaltorres&layout=compact&theme=radical)
