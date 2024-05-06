@@ -1,4 +1,4 @@
-## Hello, I'm Bruna 👋
+# Hello, I'm Bruna 👋
 
 ## Hello Word! 🌍
 
